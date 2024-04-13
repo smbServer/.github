@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-![icon](https://github.com/smbServer/.github/blob/main/icon.png)
+<!-- ![icon](https://github.com/smbServer/.github/blob/main/icon.png) -->
 
 ### This server is a Minecraft pure survival server. 🙋‍♀️
 ### You can join our QQ group, if you have a QQ.
